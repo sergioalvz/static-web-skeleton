@@ -1,0 +1,9 @@
+{
+  "name": "static-web-skeleton",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "jquery.cookie": null,
+    "i18next": null
+  }
+}
