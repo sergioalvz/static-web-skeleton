@@ -1,0 +1,8 @@
+{
+  "name": "static-web-skeleton",
+  "version": "1.0.0",
+  "author": "Sergio Álvarez",
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  }
+}
