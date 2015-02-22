@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "author": "Sergio Álvarez",
   "devDependencies": {
-    "grunt": "~0.4.5"
+    "grunt": "~0.4.5",
+    "grunt-contrib-uglify": "~0.8.0"
   }
 }

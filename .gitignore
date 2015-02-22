@@ -5,3 +5,4 @@
 site/javascripts/libs/bower/*
 **/node_modules/
 node_modules/
+site/javascripts/*
