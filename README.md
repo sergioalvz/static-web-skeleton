@@ -15,5 +15,4 @@ Still thinking about using PHP for your lightweight website? :)
 
 ## TODO
 
-* I'm still thinking about the best way for uglifying my JavaScripts files without making my debugging process annoying.
 * It would be useful to add some kind of template's system for reusing HTML snippets (Handlebars?).
