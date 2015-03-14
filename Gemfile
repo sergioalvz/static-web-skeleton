@@ -2,6 +2,6 @@ source "https://rubygems.org"
 
 gem "vienna"
 gem "compass"
-gem "modular-scale", "1.0.6"
+gem "modular-scale"
 gem "sass"
 gem "sassy-math"
